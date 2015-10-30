@@ -28,7 +28,7 @@
         $(".paging a").removeClass('active');
         $active.addClass('active');
         $(".descriptions").stop(true,true).slideUp('fast');
-        $(".descriptions").eq($('.paging a.active').attr("rel") - 1).slideDown("fast");
+        $(".descriptions").eq($('.paging a.active').attr("rel") - 1).slideDown("slow");
         // Slide Animation
         $(".slide_image").animate({
             left: -slide_imagePosition
