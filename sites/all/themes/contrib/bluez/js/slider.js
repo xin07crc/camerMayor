@@ -30,9 +30,9 @@
         $(".descriptions").stop(true,true).slideUp('fast');
         $(".descriptions").eq($('.paging a.active').attr("rel") - 1).slideDown("slow");
         // Slide Animation
-        $(".slide_image").animate({
-            left: -slide_imagePosition
-        },500);
+      //  $(".slide_image").animate({
+       //     left: -slide_imagePosition
+       // },500);
       };
 
       // Rotate and Switch
