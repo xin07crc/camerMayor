@@ -1,3 +1,72 @@
+
+
+/*GALERIA*/
+
+
+.view-id-servicios .field-content img {
+  width: 186px;
+  height: 171px;
+}
+.views-field-field-servicios-descripcion {
+  border-left: 2px solid #CCCCCC;
+  border-bottom: 2px solid #CCCCCC;
+  border-right: 2px solid #CCCCCC;
+  opacity: 0.8;
+  display: none;
+  height: 96px;
+  width: 81%;
+  background-color: black;
+  top: 172px;
+  padding: 12px 15px;
+  position: relative;
+  top: -126px;
+  z-index: 1;
+}
+.views-field-field-servicios-imagen:hover ~ .views-field-field-servicios-descripcion, .views-field-field-servicios-descripcion:hover {
+  display: block;
+}
+
+.views-field-field-servicios-descripcion .field-content {
+    overflow: hidden;
+    text-overflow:ellipsis;
+    text-align: justify;
+    color: #fff;
+    font-size: .9em;
+    line-height: 19px;
+    font-weight: 500;
+    margin: 0;
+}
+.views-row img {
+  border: 2px solid #CCCCCC;
+}
+
+.views-row {
+  height: 256px;
+  float: left;
+  width: 191px;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  border: 1px solid #CCCCCC;
+  padding: 6px;
+}
+.view-id-servicios .views-field-title {
+  border-bottom: 1px solid #CCCCCC;
+  text-align: center;
+    font-size: 16px;
+    font-weight: 200;
+    margin-bottom: 18px;
+  height: 53px;
+}
+.view-id-servicios .views-field-field-video-descrip {
+  width: 136px;
+  text-align: justify;
+}
+.view-id-servicios .views-row img {
+  text-align: center;
+}
+#block-system-powered-by {
+  clear: left;
+}
 /*-------------------------------------------*
 /*Reset
 /*-------------------------------------------*/
