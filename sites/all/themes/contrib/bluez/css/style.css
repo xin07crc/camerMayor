@@ -2,7 +2,9 @@
 
 /*GALERIA*/
 
-
+.region-content .view-id-servicios  {
+  margin-left: 10%;
+}
 .view-id-servicios .field-content img {
   width: 186px;
   height: 171px;
@@ -11,11 +13,11 @@
   border-left: 2px solid #CCCCCC;
   border-bottom: 2px solid #CCCCCC;
   border-right: 2px solid #CCCCCC;
-  opacity: 0.8;
+  opacity: 0.9;
   display: none;
   height: 96px;
   width: 81%;
-  background-color: black;
+  background: rgba(32,144,191,.85);
   top: 172px;
   padding: 12px 15px;
   position: relative;
@@ -27,14 +29,14 @@
 }
 
 .views-field-field-servicios-descripcion .field-content {
-    overflow: hidden;
-    text-overflow:ellipsis;
-    text-align: justify;
-    color: #fff;
-    font-size: .9em;
-    line-height: 19px;
-    font-weight: 500;
-    margin: 0;
+  overflow: hidden;
+  font-weight: bold;
+  text-align: justify;
+  color: #fff;
+  font-size: .9em;
+  line-height: 19px;
+  font-weight: 500;
+  margin: 0;
 }
 .views-row img {
   border: 2px solid #CCCCCC;
