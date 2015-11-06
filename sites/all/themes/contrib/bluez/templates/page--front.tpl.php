@@ -159,7 +159,7 @@
   <!-- Slider Ends -->
    <!--Welcome Blocks Starts -->
   <?php if ($wtitle || $wtext):?>
-    <div class="welcome_content">
+    <div class="welcome_content" id="welcome_id">
       <?php if ($wtitle):?>
         <div class="welcometitle"><h2><?php print ($wtitle); ?></h2></div>
       <?php endif; ?>

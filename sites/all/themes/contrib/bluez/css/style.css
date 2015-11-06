@@ -1,5 +1,10 @@
 
-
+/*front*/
+#welcome_id {
+    font-size: 23px;
+    word-spacing: 18px;
+    line-height: 32px;
+}
 /*GALERIA*/
 
 .region-content .view-id-servicios  {
