@@ -1,5 +1,8 @@
 
 /*front*/
+.col-content h3 {
+    font-size: 12px;
+}
 #welcome_id {
     font-size: 23px;
     word-spacing: 18px;
