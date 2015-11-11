@@ -1,5 +1,12 @@
 
 /*front*/
+.welcometext {
+    margin-top: 55px;
+}
+#fontsizewelcome {
+    font-size: 20px;
+    text-align: left;
+}
 .column2_more_info {
     margin-top: 55px;
 }
