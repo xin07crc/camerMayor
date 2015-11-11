@@ -165,8 +165,8 @@
         <div class="welcometitle"><h2><?php print ("asdas"); ?></h2></div>
       <?php endif; ?>
       <?php if ($wtext):?>
-        <div class="welcometext"><?php print ("<p id='fontsizewelcome'>Disponemos de la mayor <font color='red'>flota de salvaescaleras</font> portátiles en venta y alquiler al más <font color='red'>bajo coste del mercado.</font></p><p id='fontsizewelcome'>
-<font color='red'>Garantizamos el acceso</font> a cualquier tipo de vivienda, casa, local, etc.</p>"); ?></div>
+        <div class="welcometext"><?php print ("<p id='fontsizewelcome'>Disponemos de la mayor <font color='#01ace4'>flota de salvaescaleras</font> portátiles en venta y alquiler al más <font color='#01ace4'>bajo coste del mercado.</font></p><p id='fontsizewelcome'>
+<font color='#01ace4'>Garantizamos el acceso</font> a cualquier tipo de vivienda, casa, local, etc.</p>"); ?></div>
       <?php endif; ?>
     </div>
   <?php endif; ?>

@@ -1,7 +1,24 @@
 
+r {
+    color: black;
+    font-weight: bold;
+}
 /*front*/
+
+.wrap-content-column h3 {
+    font-size: 22px !important;
+    line-height: 42px;
+    color: #01ace4;
+    font-weight: bold;
+    text-align: center;  
+    word-spacing: 27px;
+}
+.wrap-content-column p { 
+    font-size: 15px;
+    line-height: 24px;
+}
 .wrap-content-column {
-    height: 250px;
+    height: 377px;
 }
 .welcometext {
     margin-top: 55px;
@@ -12,9 +29,6 @@
 }
 .column2_more_info {
     margin-top: 55px;
-}
-.col-content h3 {
-    font-size: 16px;
 }
 #welcome_id {
     font-size: 23px;
