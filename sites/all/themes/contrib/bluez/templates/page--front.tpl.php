@@ -157,20 +157,6 @@
     </div>
   <?php endif; ?>
   <!-- Slider Ends -->
-   <!--Welcome Blocks Starts -->
-  <?php if ($wtitle || $wtext):?>
-    <div class="welcome_content" id="welcome_id">
-      <?php if ($wtitle):?>
-        <div class="welcometitle"><h2><?php print ($wtitle); ?></h2></div>
-      <?php endif; ?>
-      <?php if ($wtext):?>
-        <div class="welcometext"><?php print ($wtext); ?></div>
-      <?php endif; ?>
-    </div>
-  <?php endif; ?>
-  
-  <div class="clear"></div>
-  <!--Welcome Blocks Ends -->
   
   <?php print $messages; ?>
   <div class="clear"></div>
@@ -228,6 +214,21 @@
   </div>
   <!--Three Column Blocks Ends -->
   
+  <!--Welcome Blocks Starts -->
+  <?php if ($wtitle || $wtext):?>
+    <div class="welcome_content">
+      <?php if ($wtitle):?>
+        <div class="welcometitle"><h2><?php print ("asdas"); ?></h2></div>
+      <?php endif; ?>
+      <?php if ($wtext):?>
+        <div class="welcometext"><?php print ("Disponemos de la mayor <font color='red'>flota de salvaescaleras</font> portátiles en venta y alquiler al más <font color='red'>bajo coste del mercado.</font><br>
+<font color='red'>Garantizamos el acceso</font> a cualquier tipo de vivienda, casa, local, etc."); ?></div>
+      <?php endif; ?>
+    </div>
+  <?php endif; ?>
+  
+  <div class="clear"></div>
+  <!--Welcome Blocks Ends -->
   
   <!--Footer context Start -->
   <div id="footer-context">
