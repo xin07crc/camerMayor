@@ -1,5 +1,8 @@
 
 /*front*/
+.wrap-content-column {
+    height: 250px;
+}
 .welcometext {
     margin-top: 55px;
 }
