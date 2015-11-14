@@ -103,9 +103,9 @@ r {
 .view-id-servicios .views-field-title {
   border-bottom: 1px solid #CCCCCC;
   text-align: center;
-    font-size: 16px;
-    font-weight: 200;
-    margin-bottom: 18px;
+  font-size: 20px;
+  font-weight: 200;
+  margin-bottom: 18px;
   height: 53px;
 }
 .view-id-servicios .views-field-field-video-descrip {
