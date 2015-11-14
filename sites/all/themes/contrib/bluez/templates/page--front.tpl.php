@@ -80,7 +80,7 @@
     <!-- socialbar Ends -->
   
   <!-- Header Starts -->
-  <div id="header" class="clearfix">
+    <div id="header" class="clearfix">
     <?php if ($logo || $site_slogan): ?>
       <div id="logo_slogan_wrapper">
         <!-- logo START -->
@@ -108,6 +108,12 @@
       </div>
     </div>
     <!-- navigation Ends -->
+    <!-- Telefonos -->
+  <div id="telefonos" class="telefonos">
+      <p class="telfonosp">91 345 81 31</p>
+      <p class="telfonosp">678 83 02 08</p>
+      <p class="telfonosp">Servicio 24 horas</p>
+  </div>    
   </div>
   <!-- Header Ends -->
 
