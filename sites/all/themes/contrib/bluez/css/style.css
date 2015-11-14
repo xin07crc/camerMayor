@@ -107,6 +107,8 @@ r {
   font-weight: 200;
   margin-bottom: 18px;
   height: 53px;
+  font-weight: bold;
+  line-height: 22px;
 }
 .view-id-servicios .views-field-field-video-descrip {
   width: 136px;
