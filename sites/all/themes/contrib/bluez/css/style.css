@@ -10,12 +10,13 @@ r {
     line-height: 42px;
     color: #01ace4;
     font-weight: bold;
-    text-align: center;  
-    word-spacing: 27px;
+    text-align: center;
+    word-spacing: 24px;
 }
-.wrap-content-column p { 
+.wrap-content-column p {
     font-size: 15px;
     line-height: 24px;
+    text-align: center;
 }
 .wrap-content-column {
     height: 377px;
@@ -24,8 +25,9 @@ r {
     margin-top: 55px;
 }
 #fontsizewelcome {
-    font-size: 20px;
+    font-size: 31px;
     text-align: left;
+    line-height: 27px;
 }
 .column2_more_info {
     margin-top: 55px;
