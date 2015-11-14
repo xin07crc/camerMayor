@@ -110,7 +110,14 @@
       </div>
     </div>
     <!-- navigation Ends -->
+    <!-- Telefonos -->
+  <div id="telefonos" class="telefonos">
+      <p class="telfonosp">91 345 81 31</p>
+      <p class="telfonosp">678 83 02 08</p>
+      <p class="telfonosp">Servicio 24 horas</p>
+  </div>    
   </div>
+
   <!-- Header Ends -->
   
   <div id="divider_wrapper"><div id="divider"></div></div>
