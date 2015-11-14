@@ -127,7 +127,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc" >
               <div class="desc_top" ><?php print $slide1_title; ?></div>
-              <div class="desc_bottom" ><?php print $slide1_desc; ?></div>
+              <div class="desc_bottom" ><?php print ("<r>Servicio 24 horas</r><br><r>Servimos</r> salvaescaleras portátiles a todo España<br>Mejor precio del mercado"); ?></div>
             </div>
           </div>
           <?php endif; ?>
@@ -135,7 +135,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc" >
               <div class="desc_top"><?php print $slide2_title; ?></div>
-              <div class="desc_bottom"><?php print $slide2_desc; ?></div>
+              <div class="desc_bottom"><?php print ("Modelo salvaescaleras con asiento incorporado<br><r>Varios modelos</r>") ?></div>
             </div>
           </div>
           <?php endif; ?>
@@ -143,7 +143,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc">
               <div class="desc_top"><?php print $slide3_title; ?></div>
-              <div class="desc_bottom"><?php print $slide3_desc; ?></div>
+              <div class="desc_bottom"><?php print ("<r>Acoplar una silla de ruedas</r><br>Para escaleras con giros y/o cambios de pendiente") ?></div>
             </div>  
           </div>
           <?php endif; ?>
@@ -165,8 +165,8 @@
         <div class="welcometitle"><h2><?php print ("asdas"); ?></h2></div>
       <?php endif; ?>
       <?php if ($wtext):?>
-        <div class="welcometext"><?php print ("<p id='fontsizewelcome'>Disponemos de la mayor <font color='#01ace4'>flota de salvaescaleras</font> portátiles en venta y alquiler al más <font color='#01ace4'>bajo coste del mercado.</font></p><p id='fontsizewelcome'>
-<font color='#01ace4'>Garantizamos el acceso</font> a cualquier tipo de vivienda, casa, local, etc.</p>"); ?></div>
+        <div class="welcometext"><?php print ("<p id='fontsizewelcome'><font color='#01ace4'>Flota de salvaescaleras</font> portátiles en venta y alquiler, <font color='#01ace4'>bajo coste</font></p><p id='fontsizewelcome'>
+<font color='#01ace4'>Garantizamos el acceso</font> a pisos, locales, casa , etc toda España</p>"); ?></div>
       <?php endif; ?>
     </div>
   <?php endif; ?>
