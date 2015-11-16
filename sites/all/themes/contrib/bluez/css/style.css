@@ -66,6 +66,7 @@ width: 100%;
     font-size: 17px;
     line-height: 17px;
     margin-top: 7px;
+    font-weight: bold;
 }
 r {
     color: black;
@@ -618,6 +619,9 @@ h4 a {
   height: 59px;
   line-height: 58px;
   font-size: 14px;
+  background: #01ace4;
+  color:  black;
+  font-weight: bold;
 }
 
 #main-menu .menu li li a {
@@ -664,6 +668,7 @@ h4 a {
 
 #main-menu .menu {
   float: left;
+  color: black;
 }
 
 #main-menu .menu a {
@@ -689,7 +694,7 @@ h4 a {
 }
 
 #main-menu .menu a.active {
-  color: #fff !important;
+  color: #000 !important;
   background: #01ace4;
 }
 
