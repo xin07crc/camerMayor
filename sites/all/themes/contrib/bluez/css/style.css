@@ -1,4 +1,61 @@
 /*TODO*/
+/*Custom footer*/
+.lista-footer {
+    margin-left: 10%;
+    line-height: 22px;
+}
+.titulo-footer {
+    font-size: 35px;
+    line-height: 42px;
+    text-align: left;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-left: 20px;
+}
+.pro-ser-pree-foo > div {
+    width: 33.3%;
+    float: left;
+}
+.pro-ser-pree-foo {
+width: 100%;
+}
+.banner-presupuesto {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    line-height: 33px;
+    padding: 8px;
+    font-weight: bold;
+    width: 282px;
+    height: 77px;
+    float: left;
+    text-align: center;
+    border: 3px solid #fff;
+    margin-top: 20px;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    /* box-shadow: 5px 5px 30px 1px #999; */
+    background: #EE3A3F;
+    background-image: linear-gradient(top, #EE3A3F, #9C0D11);
+    background-image: 
+    -ms-linear-gradient(top, #EE3A3F, #9C0D11);
+    background-image: 
+    -moz-linear-gradient(top, #EE3A3F, #9C0D11);
+    background-image: 
+    -o-linear-gradient(top, #EE3A3F, #9C0D11);
+    background-image: 
+    -webkit-linear-gradient(top, #EE3A3F, #9C0D11);
+    background-image: 
+    -webkit-gradient(top, #EE3A3F, #9C0D11);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EE3A3F', endColorstr='#9C0D11', GradientType=0);
+}
+#telefonos img {
+    width: 17px;
+    margin-right: 10px;
+}
 #telefonos {
     width: 17%;
     float: right;
@@ -116,7 +173,7 @@ r {
   font-size: 20px;
   font-weight: 200;
   margin-bottom: 18px;
-  height: 53px;
+  height: 71px;
   font-weight: bold;
   line-height: 22px;
 }
@@ -898,7 +955,7 @@ h4 a {
   margin: 0px 20px 0 0;
   padding: 0 0 20px 0;
   text-align: justify;
-  width: 300px;
+  width: 100%;
 }
 
 .footer-box {
