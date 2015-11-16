@@ -59,6 +59,7 @@ width: 100%;
 #telefonos {
     width: 17%;
     float: right;
+    margin-top: 14px;
 }
 .telfonosp {
     color: #000;
@@ -534,8 +535,9 @@ h4 a {
 }
 
 #logo_slogan_wrapper {
-  width: 19%;
+  width: 16%;
   float: left;
+  margin-top: 16px;
 }
 
 #logo {
@@ -613,8 +615,9 @@ h4 a {
 #main-menu .menu li a {
   margin-bottom: 10px;
   height: 18px;
-  height: 37px;
-  line-height: 35px;
+  height: 59px;
+  line-height: 58px;
+  font-size: 14px;
 }
 
 #main-menu .menu li li a {
