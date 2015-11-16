@@ -53,13 +53,12 @@ width: 100%;
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EE3A3F', endColorstr='#9C0D11', GradientType=0);
 }
 #telefonos img {
-    width: 15px;
+    width: 17px;
     margin-right: 10px;
 }
 #telefonos {
     width: 17%;
     float: right;
-    height: 0px;
 }
 .telfonosp {
     color: #000;
@@ -689,8 +688,6 @@ h4 a {
 #main-menu .menu a.active {
   color: #fff !important;
   background: #01ace4;
-  height: 37px;
-  line-height: 35px;
 }
 
 #main-menu .menu a.active-trail {
