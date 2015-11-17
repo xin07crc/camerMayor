@@ -892,6 +892,8 @@ h4 a {
 }
 
 .three .column img {
+  width: 306px;
+  height: 100px;
   float: left;
   margin-right: 15px;
 }
