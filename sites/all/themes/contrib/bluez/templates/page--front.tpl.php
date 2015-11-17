@@ -133,7 +133,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc" >
               <div class="desc_top" ><?php print $slide1_title; ?></div>
-              <div class="desc_bottom" ><?php print ("<r>Servicio 24 horas</r><br><r>Servimos salvaescaleras a toda España<br><r>Al mejor precio del mercado</r><br><r>Sin fianza</r>"); ?></div>
+              <div class="desc_bottom" ><?php print ("<r>Servicio</r> 24 horas</r><br><r>Servimos salvaescaleras</r> a toda España<br><r>Al mejor precio</r> del mercado</r><br><r>Sin fianza</r>"); ?></div>
             </div>
           </div>
           <?php endif; ?>
@@ -149,7 +149,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc">
               <div class="desc_top"><?php print $slide3_title; ?></div>
-              <div class="desc_bottom"><?php print ("<r>Salvaescaleras para acoplar silla de ruedas</r><br><r>Con asiento incorporado</r><br><r>Para escaleras con giros</r>") ?></div>
+              <div class="desc_bottom"><?php print ("<r>Salvaescaleras</r> para acoplar silla de ruedas</r><br><r>Con asiento</r> incorporado</r><br><r>Para escaleras</r> con giros</r>") ?></div>
             </div>  
           </div>
           <?php endif; ?>
