@@ -38,17 +38,26 @@ width: 100%;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     /* box-shadow: 5px 5px 30px 1px #999; */
-    background: #EE3A3F;
+    background: #01ACE4;
     background-image: linear-gradient(top, #EE3A3F, #9C0D11);
     background-image: 
+    
+    
     -ms-linear-gradient(top, #EE3A3F, #9C0D11);
     background-image: 
+    
+    
     -moz-linear-gradient(top, #EE3A3F, #9C0D11);
     background-image: 
+    
+    
     -o-linear-gradient(top, #EE3A3F, #9C0D11);
+    /* background-image: 
+    
+    -webkit-linear-gradient(top, #EE3A3F, #9C0D11); */
     background-image: 
-    -webkit-linear-gradient(top, #EE3A3F, #9C0D11);
-    background-image: 
+    
+    
     -webkit-gradient(top, #EE3A3F, #9C0D11);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#EE3A3F', endColorstr='#9C0D11', GradientType=0);
 }
@@ -62,7 +71,7 @@ width: 100%;
     margin-top: 14px;
 }
 .telfonosp {
-    color: #000;
+    color: red;
     font-size: 17px;
     line-height: 17px;
     margin-top: 7px;
@@ -620,7 +629,7 @@ h4 a {
   line-height: 58px;
   font-size: 14px;
   background: #01ace4;
-  color:  black;
+  color: white;
   font-weight: bold;
 }
 
@@ -694,7 +703,7 @@ h4 a {
 }
 
 #main-menu .menu a.active {
-  color: #000 !important;
+  color: white !important;
   background: #01ace4;
 }
 
