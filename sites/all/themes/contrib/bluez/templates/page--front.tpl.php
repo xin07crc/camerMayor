@@ -110,8 +110,8 @@
     <!-- navigation Ends -->
     <!-- Telefonos -->
   <div id="telefonos" class="telefonos">
-      <img src="sites/default/files/phone.png"><p class="telfonosp">91 345 81 31</p>
-      <img src="sites/default/files/phone.png"><p class="telfonosp">678 83 02 08</p>
+      <p class="telfonosp">91 345 81 31</p>
+      <p class="telfonosp">678 83 02 08</p>
       <p class="telfonosp">Servicio 24 horas</p>
   </div>    
   </div>

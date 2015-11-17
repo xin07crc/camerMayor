@@ -1,5 +1,8 @@
 /*TODO*/
 /*Custom footer*/
+#logo img {
+    width: 100%;
+}
 .lista-footer {
     margin-left: 10%;
     line-height: 22px;
@@ -529,7 +532,7 @@ h4 a {
   position: relative;
   margin: 0 auto;
   width: 960px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
 }
 
 #divider_wrapper {
