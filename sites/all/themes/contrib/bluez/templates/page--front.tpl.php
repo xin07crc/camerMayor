@@ -133,7 +133,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc" >
               <div class="desc_top" ><?php print $slide1_title; ?></div>
-              <div class="desc_bottom" ><?php print ("<r>Servicio 24 horas</r><br><r>Servimos</r> salvaescaleras portátiles a todo España<br>Mejor precio del mercado"); ?></div>
+              <div class="desc_bottom" ><?php print ("<r>Servicio 24 horas</r><br><r>Servimos salvaescaleras a toda España<br><r>Al mejor precio del mercado</r><br><r>Sin fianza</r>"); ?></div>
             </div>
           </div>
           <?php endif; ?>
