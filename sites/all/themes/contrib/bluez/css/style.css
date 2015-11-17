@@ -633,8 +633,8 @@ h4 a {
   height: 59px;
   line-height: 58px;
   font-size: 14px;
-  background: #01ace4;
-  color: white;
+  background: white;
+  color: black;
   font-weight: bold;
 }
 
@@ -708,8 +708,8 @@ h4 a {
 }
 
 #main-menu .menu a.active {
-  color: white !important;
-  background: #01ace4;
+  color: black !important;
+  background-color: white;
 }
 
 #main-menu .menu a.active-trail {
