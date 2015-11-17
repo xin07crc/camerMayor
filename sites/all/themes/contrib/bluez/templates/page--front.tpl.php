@@ -172,7 +172,7 @@
       <?php endif; ?>
       <?php if ($wtext):?>
         <div class="welcometext"><?php print ("<p id='fontsizewelcome'><font color='#01ace4'>Flota de salvaescaleras</font> portátiles en venta y alquiler, <font color='#01ace4'>bajo coste</font></p><p id='fontsizewelcome'>
-<font color='#01ace4'>Garantizamos el acceso</font> a pisos, locales, casas..., a toda España</p>"); ?></div>
+<font color='#01ace4'>Garantizamos el acceso</font> a pisos, locales, casas... en toda España</p>"); ?></div>
       <?php endif; ?>
     </div>
   <?php endif; ?>
