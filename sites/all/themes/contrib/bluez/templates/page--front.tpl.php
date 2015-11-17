@@ -125,8 +125,8 @@
           <div id="divider_wrapper"><div id="divider"></div></div>
           <div class="slide_image">
             <?php print $slideimage1; ?>
-            <!--<? php print $slideimage2; ?>-->
-            <!--<? php print $slideimage3; ?>-->
+            <?php print $slideimage2; ?>
+            <?php print $slideimage3; ?>
           </div>
           
           <?php if ($slide1_title || $slide1_desc):?>
