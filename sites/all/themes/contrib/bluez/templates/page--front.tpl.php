@@ -141,7 +141,7 @@
           <div class="descriptions" style="display: none;">
             <div class="desc" >
               <div class="desc_top"><?php print $slide2_title; ?></div>
-              <div class="desc_bottom"><?php print ("<r>Auxiliares de geriatria</r> a domicilio<br><r>Psicologia y terapia ocupacional</r> en casa<br><r>Asistenta</r> por horas e interna ") ?></div>
+              <div class="desc_bottom"><?php print ("<r>Auxiliares de geriatria</r> a domicilio<br><r>Psicologo y terapia ocupacional</r> en casa<br><r>Asistenta</r> por horas e interna ") ?></div>
             </div>
           </div>
           <?php endif; ?>
