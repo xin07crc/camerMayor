@@ -124,9 +124,14 @@
         <div class="slide-area">
           <div id="divider_wrapper"><div id="divider"></div></div>
           <div class="slide_image">
-            <?php print $slideimage1; ?>
-            <?php print $slideimage2; ?>
-            <?php print $slideimage3; ?>
+              
+              <?php print theme('image_style',array('style_name' => 'imagen_front', 'path' => 'Liftkar1escalera.jpg')); ?>
+              <!--
+            <img typeof="foaf:Image" src="sites/default/files/phone.png?itok=wpBeu3j6" alt="" />  
+            < ?php print $slideimage1; ?>
+            < ?php print $slideimage2; ?>
+            < ?php print $slideimage3; ?>
+              -->
           </div>
           
           <?php if ($slide1_title || $slide1_desc):?>
