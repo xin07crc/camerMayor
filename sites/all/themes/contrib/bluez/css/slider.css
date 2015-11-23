@@ -28,6 +28,7 @@
 
 .slide_image img {
   float: left;
+  width: 606px;
 }
 
 #slider {
@@ -68,7 +69,7 @@
 }
 
 .descriptions {
-  width: 414px;
+  width: 570px;
   z-index: 101;
   background: none repeat scroll 0 0 #01ace4;
   box-shadow: 0 0 50px 50px #00a6cf inset;
