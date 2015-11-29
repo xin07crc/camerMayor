@@ -1,5 +1,24 @@
+/*Psicologo*/
+.page-node-68 .field-item {
+    line-height: 21px;
+}
+.lista-psicologo-front {
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+/*CUIDADO DE MAYORES*/
+.page-node-61 .field-item {
+    line-height: 21px;
+}
+.psicologo-izquierda img {
+    width: 88%;
+}
 /*PSICOLOGO*/
 .page-node-67 .field-item {
+    line-height: 21px;
+}
+/*SALVAESCALERA*/
+.page-node-62 .field-item { 
     line-height: 21px;
 }
 /*TODO*/
@@ -11,6 +30,33 @@
     height: 150px;
     margin-right: 90px;
     margin-bottom: 69px;
+}
+.psicologo-estimulacion {
+    width: 100%;
+    clear: left;
+}
+.psicologo-izquierda {
+    width: 50%;
+    float: left;    
+}
+.psicologo-derecha {
+    width: 50%;
+    float: left;
+}
+.encabezado-parrafo {
+    color: #01ace4;
+    font-size: 25px;
+}
+
+.psicologo-objetivos-programa {
+    width: 100%;
+    clear: left;
+    font-size: 17px;
+}
+.encamezados-objetivos {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
 }
 /**/
 .imagen-tafifas {
