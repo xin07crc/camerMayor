@@ -34,13 +34,14 @@
 .psicologo-estimulacion {
     width: 100%;
     clear: left;
+    margin-top: 2%;
 }
 .psicologo-izquierda {
     width: 50%;
     float: left;    
 }
 .psicologo-izquierda-foto {
-    width: 30%;
+    width: 18%;
     float: left;     
 }
 .psicologo-derecha-foto {
@@ -55,7 +56,9 @@
     color: #01ace4;
     font-size: 25px;
 }
-
+.psicologo-izquierda-foto div img {
+    width: 91%;
+}
 .psicologo-objetivos-programa {
     width: 100%;
     clear: left;
