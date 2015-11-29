@@ -39,6 +39,14 @@
     width: 50%;
     float: left;    
 }
+.psicologo-izquierda-foto {
+    width: 30%;
+    float: left;     
+}
+.psicologo-derecha-foto {
+    width: 70%;
+    float: left;
+}
 .psicologo-derecha {
     width: 50%;
     float: left;
